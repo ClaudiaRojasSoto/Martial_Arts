@@ -1,0 +1,59 @@
+{
+  "personajes": [
+    {
+      "name": "Goku",
+      "imagenes": [
+        "Goku1.png",
+        "Goku2.png",
+        "Goku3.jpg",
+        "Goku4.jpg",
+        "Goku5.jpg",
+        "Goku6.jpg"
+      ]
+    },
+    {
+      "name": "Gohan",
+      "imagenes": [
+        "Gohan1.png",
+        "Gohan2.png",
+        "Gohan3.jpg",
+        "Gohan4.png",
+        "Gohan5.jpg",
+        "Gohan6.png"
+      ]
+    },
+    {
+      "name": "Krilin",
+      "imagenes": [
+        "Krilin1.png",
+        "Krilin2.png",
+        "Krilin3.png",
+        "Krilin4.png",
+        "Krilin5.png",
+        "Krilin6.png"
+      ]
+    },
+    {
+      "name": "Vegeta",
+      "imagenes": [
+        "Vegeta1.png",
+        "Vegeta2.png",
+        "Vegeta3.png",
+        "Vegeta4.png",
+        "Vegeta5.png",
+        "Vegeta6.png"
+      ]
+    },
+    {
+        "name": "Trunks",
+        "imagenes": [
+          "Trunks1.png",
+          "Trunks2.png",
+          "Trunks3.png",
+          "Trunks4.png",
+          "Trunks5.png",
+          "Trunks6.png"
+        ]
+      }
+  ]
+}

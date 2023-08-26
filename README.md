@@ -25,7 +25,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [� Table of Contents](#-table-of-contents)
+- [📗 Table of Contents](#-table-of-contents)
 - [📖 Desafio\_artes\_marciales ](#-desafio_artes_marciales-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
@@ -70,8 +70,6 @@ This project is a web application for a martial arts tournament featuring Dragon
 - **[GitHub flow]**
 - **[Pull request]**
 - **[Descriptive commits]**
-- **[Add Books]**
-- **[Remove Books]**
 - **[Data Persistence]**
 - **[Interactive User Basic Interface]**
 - **[JavaScript Functionality]**
@@ -162,7 +160,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--**[Classes in JavaScript]**
+-**[User authentication]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

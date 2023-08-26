@@ -46,9 +46,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Desafio_artes_marciales <a name="about-project"></a>
+# 📖 Martial_Arts <a name="about-project"></a>
 
-**Desafio_artes_marciales**
+**Martial_Arts**
 This project is a web application for a martial arts tournament featuring Dragon Ball Z characters. It allows you to register participants, select their race, and assign them a power level. You can also view a table with all the participants and determine who is the strongest. The application uses technologies such as HTML, CSS, JavaScript, and Bootstrap.
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -87,7 +87,7 @@ This project is a web application for a martial arts tournament featuring Dragon
 
 Clone this repository to your local machine:
 
-git clone git@github.com:ClaudiaRojasSoto/Desafio_artes_marciales.git
+git clone git@github.com:ClaudiaRojasSoto/Martial_Arts.git
 
 ### Prerequisites
 
@@ -168,7 +168,7 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Desafio_artes_marciales).
+Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Martial_Arts).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
